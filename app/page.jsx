@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect, useRef } from "react";
+
 // app entry — hooks imported inside LangCtx block above
 
 const GOLD = "#C9963A";
