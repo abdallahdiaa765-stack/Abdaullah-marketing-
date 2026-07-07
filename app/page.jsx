@@ -1,5 +1,4 @@
 "use client";
-
 // app entry — hooks imported inside LangCtx block above
 
 const GOLD = "#C9963A";
